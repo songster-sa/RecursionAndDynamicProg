@@ -29,4 +29,6 @@ public class MagicIndex {
             return soltionOne(input, start, mid - 1);
         }
     }
+
+    // TODO followups
 }
